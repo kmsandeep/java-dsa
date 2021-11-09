@@ -1,0 +1,5 @@
+org\sandeep\singlyLinkedList\App.class
+org\sandeep\singlyLinkedList\Insertion.class
+org\sandeep\singlyLinkedList\Node.class
+org\sandeep\doublyLinkedList\Node.class
+org\sandeep\singlyLinkedList\Deletion.class
